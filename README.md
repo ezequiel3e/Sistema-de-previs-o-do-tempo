@@ -12,7 +12,7 @@ atuais, bem como previsões de temperatura, umidade.
 - condições meteorológicas, como tempestades, chuvas intensas ou temperaturas extremas.
 - facilidade de uso o programa proporciona uma experiência completa de previsão do tempo, auxiliando os usuários em suas necessidades diárias.
   ### Tecnologias
-  - Javascript
+  - JavaScript
   - CSS
   - HTML
   - API REST
